@@ -1,4 +1,4 @@
-# Videos:
+ZSSSSS# Videos:
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
@@ -17,7 +17,7 @@
 - [x] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- [x] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
@@ -49,7 +49,7 @@
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [x] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
