@@ -44,11 +44,11 @@
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) `HashMap`
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-- [Sort List](https://leetcode.com/problems/sort-list/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) `Linked List`
+- [Sort List](https://leetcode.com/problems/sort-list/) `Linked List`
 - [x] [Largest Number](https://leetcode.com/problems/largest-number/) `String`
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -56,6 +56,7 @@
 
 ## Hard
 - [x] [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
 
