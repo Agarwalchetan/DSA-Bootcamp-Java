@@ -43,7 +43,7 @@
 ## Medium
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [4Sum](https://leetcode.com/problems/4sum/)
+- [x] [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) `HashMap`
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
@@ -56,6 +56,7 @@
 
 ## Hard
 - [x] [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
 
