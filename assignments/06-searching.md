@@ -34,15 +34,15 @@ ZSSSSS# Videos:
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [x] [Reach a Number](https://leetcode.com/problems/reach-a-number/)
-- [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [x] [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) `Hard`
+- [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [x] [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [4 Sum](https://leetcode.com/problems/4sum/)
+- [x] [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
