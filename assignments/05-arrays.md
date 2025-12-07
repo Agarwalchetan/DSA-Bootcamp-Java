@@ -21,7 +21,7 @@
 16. [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [x] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+19. [x] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [x] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 21. [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
@@ -34,8 +34,8 @@
 
 ### Medium
 1. [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+2. [x] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+3. [x] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 5. [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 6. [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
