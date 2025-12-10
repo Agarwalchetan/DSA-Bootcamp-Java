@@ -12,13 +12,13 @@
 - [x] [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [x] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [x] [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
-- [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+- [x] [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [x] [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
-- [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
-- [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
-- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [x] [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+- [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- [x] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+- [x] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
