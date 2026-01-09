@@ -45,11 +45,11 @@ ZSSSSS# Videos:
 - [x] [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) `GFG`
+- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) `GFG`
 - [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [x] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-- [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html) `Question Article`
