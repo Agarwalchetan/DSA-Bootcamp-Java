@@ -47,4 +47,4 @@
 ### Hard
 1. [x] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 2. [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+3. [x] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
