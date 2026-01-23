@@ -35,14 +35,14 @@
 - [x] [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 - [x] [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
 - [x] [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
-- [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+- [x] [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
 - [x] [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 - [x] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
-- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
-- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+- [x] [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
+- [x] [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+- [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-- [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+- [x] [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 - [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
 - [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
