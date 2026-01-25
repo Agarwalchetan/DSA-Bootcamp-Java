@@ -43,11 +43,11 @@
 - [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [x] [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
-- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+- [x] [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
+- [x] [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
-- [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
-- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+- [x] [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- [x] [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
