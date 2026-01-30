@@ -5,7 +5,7 @@
 
 ## Easy
 - [x] [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
-- [x] [[Happy Number.](https://leetcode.com/problems/happy-number/)
+- [x] [Happy Number.](https://leetcode.com/problems/happy-number/)
 - [x] [[Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
 - [x] [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [x] [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)
@@ -22,10 +22,10 @@
 - [Gray Code](https://leetcode.com/problems/gray-code/)
 - [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [x] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-- [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+- [x] [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [x] [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
-- [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
+- [x] [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
@@ -36,5 +36,5 @@
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-- [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
+- [x] [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
 
