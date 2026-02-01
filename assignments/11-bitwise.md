@@ -24,11 +24,11 @@
 - [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
 ## Medium
-- [Subsets](https://leetcode.com/problems/subsets/)
-- [Subsets II](https://leetcode.com/problems/subsets-ii/)
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
+- [x] [Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [x] [Single Number II](https://leetcode.com/problems/single-number-ii/)
-- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
-- [Gray Code](https://leetcode.com/problems/gray-code/)
+- [x] [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+- [x] [Gray Code](https://leetcode.com/problems/gray-code/)
 - [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Hard
