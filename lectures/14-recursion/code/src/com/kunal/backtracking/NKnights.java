@@ -1,4 +1,4 @@
-package com.kunal.backtracking;
+//package com.kunal.backtracking;
 
 public class NKnights {
     public static void main(String[] args) {
