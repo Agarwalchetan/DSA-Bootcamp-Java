@@ -3,25 +3,25 @@
 ## Easy
 
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) `leetcode`
-- [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `leetcode`
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) `leetcode`
 - [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) `leetcode`
-- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) `leetcode`
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) `leetcode`
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) `leetcode`
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/) `leetcode`
 - [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
 - [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
-- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
-- [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
-- [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
-- [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
+- [x] [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
+- [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
+- [x] [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
+- [x] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
 
 ## Medium
 
-- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
 - [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
