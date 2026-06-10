@@ -22,9 +22,9 @@
 ## Medium
 
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
-- [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
-- [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
-- [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
+- [x] [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
+- [x] [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
+- [x] [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
 - [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `leetcode`
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `leetcode`
 - [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) `leetcode`
