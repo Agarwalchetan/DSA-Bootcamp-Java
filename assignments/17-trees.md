@@ -25,12 +25,12 @@
 - [x] [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
 - [x] [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
 - [x] [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
-- [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `leetcode`
-- [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `leetcode`
-- [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) `leetcode`
+- [x] [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `leetcode`
+- [x] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `leetcode`
+- [x] [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) `leetcode`
 - [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) `leetcode`
-- [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) `leetcode`
-- [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) `leetcode`
+- [x] [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) `leetcode`
+- [x] [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) `leetcode`
 - [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) `leetcode`
 - [Path Sum III](https://leetcode.com/problems/path-sum-iii/) `leetcode`
 - [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) `leetcode`
